@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\workspace\ws-qtsLocadora\.metadata\.plugins\org.eclipse.jdt.core
+922603.index
+2986993783.index
+1671692264.index
+3307886716.index
